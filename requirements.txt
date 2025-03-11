@@ -1,0 +1,11 @@
+Flask
+json
+base64
+OpenCV (cv2)
+keras.models
+keras.utils.np_utils
+pandas
+numpy
+random
+
+To install these packages, use pip, Python's package installer. 
